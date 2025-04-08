@@ -25,10 +25,16 @@ public class BookService {
         return bRepo.findById(id)
                 .orElseThrow(() -> new BookNotFoundException("Book not found with ID: " + id));
     }
+
     public void deleteById(int id) {
         if (!bRepo.existsById(id)) {
             throw new BookNotFoundException("Cannot delete. Book not found with ID: " + id);
         }
         bRepo.deleteById(id);
     }
+    // public List<Book> searchBooks(String search) {
+    //     return bRepo.findByNameContainingOrAuthorContaining(search, search);
+    //   }
+
+
 }
