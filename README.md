@@ -1,9 +1,10 @@
 # Book-Store
 
 Project Documentations:
-https://docs.google.com/document/d/1Raxz7N8SN2HMADAzUoE6GWVUXuKY2KA6NsFJPKKEIDw/edit?usp=sharing
-https://docs.google.com/spreadsheets/d/17-cFALDv3V83KxKv2-s-n3qSD3NqXgX9N3UscIIg1xU/edit?usp=sharing
 
+1. https://docs.google.com/document/d/1Raxz7N8SN2HMADAzUoE6GWVUXuKY2KA6NsFJPKKEIDw/edit?usp=sharing
+
+2. https://docs.google.com/spreadsheets/d/17-cFALDv3V83KxKv2-s-n3qSD3NqXgX9N3UscIIg1xU/edit?usp=sharing
 
 
 How to build and run the application :
